@@ -17,8 +17,9 @@ If you’ve ever thought:
 * “Why do I need to install 3 CLIs just to write a spec?”
 * “Why does tooling get in the way of actually *thinking* about what I’m building?”
 * “I just want simple, inspiring **guidelines** to help me define and evolve specs.”
-* Look in the artifacts folder for some examples - this repo encourages you to use your preferred LLM chatbot to create your specs, plans and tasks.
 …then you’re in the right place.
+
+Look in the artifacts folder for some examples - this repo encourages you to use your preferred LLM chatbot to create your specs, plans and tasks. 
 
 **SDD is lightweight inspiration.** It helps backend devs, frontend devs, data scientists, and even product teams focus on **specs that matter**, not on plumbing.
 
