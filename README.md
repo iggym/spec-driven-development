@@ -7,7 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/iggym/spec-driven-development.svg?style=social)](https://github.com/iggym/spec-driven-development/stargazers)
 
 <!-- TODO: Add badges for npm/pip package, CI build, or coverage once available -->
-![sdd](Sdd.png)
+![sdd](Sdd-3.png)
 ---
 
 ## 🌟 Why Spec-Driven Development?
