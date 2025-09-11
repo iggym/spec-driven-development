@@ -1,7 +1,7 @@
 # Spec-Driven Development (SDD)
 
 > **Ship specs, not stress.**
-> A more accessible set of artifacts for Spec Driven. Forget fiddling with CLIs, endless scripts, and yak-shaving. Spec-Driven Development is about **writing clear specs that guide your workflow, product, and codebase** — without unnecessary clutter.
+> A more accessible set of artifacts for Spec Driven Development. Forget fiddling with CLIs, endless scripts, and yak-shaving. Spec-Driven Development is about **writing clear specs that guide your workflow, product, and codebase** — without unnecessary clutter.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/iggym/spec-driven-development.svg?style=social)](https://github.com/iggym/spec-driven-development/stargazers)
